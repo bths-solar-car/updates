@@ -24,7 +24,7 @@
 * Update #3
 
 
-## Telemetry
+## Programming
 
 * Update #1
 * Update #2
