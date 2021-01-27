@@ -1,6 +1,6 @@
 # YYYY-MM-DD
 
-> Week of: MM/DD - MM/DD
+> Week of: MM/DD to MM/DD
 
 
 ## General
